@@ -1,9 +1,14 @@
 name: Generate Snake Animation
 
 on:
+  # 每天午夜自动运行
   schedule:
     - cron: "0 0 * * *"
+
+  # 允许手动触发
   workflow_dispatch:
+
+  # 推送到主分支时触发
   push:
     branches:
       - main
@@ -16,17 +21,20 @@ jobs:
       contents: write
 
     steps:
+      # 检出代码
       - name: Checkout
         uses: actions/checkout@v3
 
+      # 生成蛇形图
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#8E2DE2&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=#00D4FF&color_dots=#2a2a3e,#8E2DE2,#00D4FF,#00FF41,#FFCC00
 
+      # 部署到输出分支
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
