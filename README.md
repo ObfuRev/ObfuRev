@@ -2,7 +2,7 @@
 
   # 👋 Hello, I'm ObfuRev
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=8E2DE2&center=true&vCenter=true&width=600&lines=逆向工程+%7C+代码混淆+%7C+二进制安全;拆解黑盒，还原逻辑;分析每一行汇编，理解每一个字节;Obfuscate+%26+Deobfuscate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=8E2DE2&center=true&vCenter=true&width=700&lines=%E8%B7%AF%E6%BC%AB%E6%BC%AB%E5%85%B6%E4%BF%AE%E8%BF%9C%E5%85%AE%EF%BC%8C%E5%90%BE%E5%B0%86%E4%B8%8A%E4%B8%8B%E8%80%8C%E6%B1%82%E7%B4%A2)](https://git.io/typing-svg)
 
 </div>
 
