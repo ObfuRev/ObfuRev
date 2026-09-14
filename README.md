@@ -123,8 +123,6 @@
          src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" 
          width="100%">
   </picture>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObfuRev&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
@@ -140,5 +138,3 @@
 <p align="center">
   <i>Obfuscate the code, reveal the truth. ✨</i> 
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00D4FF,100:00FF41&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
