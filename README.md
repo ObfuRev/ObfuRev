@@ -20,8 +20,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00D4FF&height=230&section=header&text=ObfuRev&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Obfuscation%20%26%20Reverse%20Engineering&descAlignY=58" />
-
   # 👋 Hello, I'm ObfuRev
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=8E2DE2&center=true&vCenter=true&width=600&lines=逆向工程+%7C+代码混淆+%7C+二进制安全;拆解黑盒，还原逻辑;分析每一行汇编，理解每一个字节;Obfuscate+%26+Deobfuscate)](https://git.io/typing-svg)
@@ -44,43 +42,47 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="34%" valign="top">
+<h3 align="center">🔍 逆向工程</h3>
 
-> ### 🔍 逆向工程
->
-> 🧩 二进制**逆向与反汇编**分析
-> 🔧 **汇编 / 反编译**代码还原  
-> 🎯 **漏洞挖掘**与利用分析  
-> 🛡️ **恶意代码**分析与溯源  
-> 📡 **固件 / 协议**逆向
+<div align="center">
 
-</td>
-<td width="34%" valign="top">
+| 方向 | 内容 |
+|:---:|:---|
+| 二进制分析 | 逆向与反汇编分析 |
+| 代码还原 | 汇编 / 反编译代码还原 |
+| 漏洞研究 | 漏洞挖掘与利用分析 |
+| 恶意代码 | 恶意代码分析与溯源 |
+| 固件协议 | 固件 / 协议逆向 |
 
-> ### 🌀 代码混淆
->
-> 🔐 **控制流平坦化**与花指令
-> 🧬 **字符串加密**与虚拟化保护
-> ⚙️ **LLVM Pass** 混淆插件开发  
-> 🛠️ 代码加固与**反调试**  
-> 📉 **去混淆**与自动化还原
+</div>
 
-</td>
-<td width="32%" valign="top">
+<h3 align="center">🌀 代码混淆</h3>
 
-> ### 🧪 安全研究
->
-> 🐧 **Windows / Linux** 内核安全
-> 🌐 **Web / 移动端**安全测试
-> 🤖 **AI 辅助逆向**与代码理解
-> 🏴 **CTF** 与漏洞复现
-> 🧰 安全工具开发与自动化
+<div align="center">
 
-</td>
-</tr>
-</table>
+| 方向 | 内容 |
+|:---:|:---|
+| 控制流 | 控制流平坦化与花指令 |
+| 数据保护 | 字符串加密与虚拟化保护 |
+| 编译器 | LLVM Pass 混淆插件开发 |
+| 加固 | 代码加固与反调试 |
+| 还原 | 去混淆与自动化还原 |
+
+</div>
+
+<h3 align="center">🧪 安全研究</h3>
+
+<div align="center">
+
+| 方向 | 内容 |
+|:---:|:---|
+| 系统安全 | Windows / Linux 内核安全 |
+| 应用安全 | Web / 移动端安全测试 |
+| 智能逆向 | AI 辅助逆向与代码理解 |
+| 竞赛 | CTF 与漏洞复现 |
+| 工具 | 安全工具开发与自动化 |
+
+</div>
 
 <h2 id="技能与工具" align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
