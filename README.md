@@ -7,7 +7,6 @@
   <p align="center">
     <a href="#关于我"><img src="https://img.shields.io/badge/关于我-8E2DE2?style=for-the-badge" alt="关于我"/></a>
     <a href="#技能与工具"><img src="https://img.shields.io/badge/技能与工具-00D4FF?style=for-the-badge" alt="技能与工具"/></a>
-    <a href="#精选项目"><img src="https://img.shields.io/badge/精选项目-00FF41?style=for-the-badge" alt="精选项目"/></a>
     <a href="#github-活动"><img src="https://img.shields.io/badge/GitHub_活动-FF5F6D?style=for-the-badge" alt="GitHub 活动"/></a>
   </p>
 </div>
@@ -108,42 +107,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  GitHub 数据统计
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ObfuRev&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ObfuRev&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ObfuRev&theme=tokyonight" width="33%" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=ObfuRev&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
-
-<h2 id="精选项目" align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  精选项目
-</h2>
-
-<div align="center">
-  <a href="https://github.com/ObfuRev/obfu-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObfuRev&repo=obfu-toolkit&theme=tokyonight&hide_border=true&title_color=00D4FF" width="49%" />
-  </a>
-  <a href="https://github.com/ObfuRev/rev-notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObfuRev&repo=rev-notes&theme=tokyonight&hide_border=true&title_color=8E2DE2" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ObfuRev?tab=repositories">
-    <img src="https://img.shields.io/badge/更多项目-查看全部-%238E2DE2?style=for-the-badge&logo=github" alt="查看更多项目" />
-  </a>
-</div>
-
 <h2 id="github-活动" align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub 活动
@@ -160,8 +123,6 @@
          src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" 
          width="100%">
   </picture>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObfuRev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObfuRev&theme=tokyonight" width="100%" />
 </div>
