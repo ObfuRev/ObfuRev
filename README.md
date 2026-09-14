@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<!-- 动态波浪分隔符 -->
+<!-- 分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" />
 
 <h2 id="关于我" align="center">
@@ -22,7 +22,6 @@
 
 <div align="center">
 
-  <!-- 增强标题横幅 - 赛博紫青渐变 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00D4FF&height=230&section=header&text=ObfuRev&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Obfuscation%20%26%20Reverse%20Engineering&descAlignY=58" />
 
   # 👋 Hello, I'm ObfuRev
@@ -36,7 +35,6 @@
     <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-8E2DE2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
   </p>
 
-  <!-- 动态访问计数器 -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=ObfuRev&style=for-the-badge&color=8E2DE2" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/ObfuRev?style=for-the-badge&color=00D4FF&labelColor=141321" alt="关注者" />
@@ -44,7 +42,7 @@
   </p>
 </div>
 
-<!-- 动态分隔符 -->
+<!-- 分隔符 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
@@ -87,19 +85,16 @@
 </tr>
 </table>
 
-<!-- 技能展示 -->
 <h2 id="技能与工具" align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   技能与工具
 </h2>
 
 <div align="center">
-  <!-- 编程语言 / 环境 -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,git,docker,vscode,github&perline=10" />
   
   <br/><br/>
 
-  <!-- 逆向 / 混淆工具链 -->
   <img src="https://img.shields.io/badge/IDA_Pro-5B2C6F?style=for-the-badge" alt="IDA Pro"/>
   <img src="https://img.shields.io/badge/Ghidra-2C3E50?style=for-the-badge" alt="Ghidra"/>
   <img src="https://img.shields.io/badge/x64dbg-1F6FEB?style=for-the-badge" alt="x64dbg"/>
@@ -111,7 +106,7 @@
   <img src="https://img.shields.io/badge/Capstone-00FF41?style=for-the-badge" alt="Capstone"/>
 </div>
 
-<!-- 动态分隔符 -->
+<!-- 分隔符 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
@@ -132,7 +127,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ObfuRev&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
-<!-- 精选项目 -->
 <h2 id="精选项目" align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   精选项目
@@ -153,7 +147,6 @@
   </a>
 </div>
 
-<!-- GitHub 活动 -->
 <h2 id="github-活动" align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
   GitHub 活动
@@ -161,27 +154,15 @@
 </h2>
 
 <div align="center">
-  <!-- 贡献蛇形图（需先配置 snake.yml 并运行一次） -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" 
-         src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" 
-         width="100%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObfuRev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
-  <!-- 贡献热图 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObfuRev&theme=tokyonight" width="100%" />
 </div>
 
-<!-- 动态语录 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=80&lines=%E2%80%9C%E4%BB%A3%E7%A0%81%E5%8F%AF%E4%BB%A5%E8%A2%AB%E6%B7%B7%E6%B7%86%EF%BC%8C%E4%BD%86%E9%80%BB%E8%BE%91%E7%BB%88%E5%B0%86%E8%A2%AB%E8%BF%98%E5%8E%9F%E3%80%82%E2%80%9D;%E2%80%9C%E7%90%86%E8%A7%A3%E4%BA%8C%E8%BF%9B%E5%88%B6%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%90%86%E8%A7%A3%E6%9C%BA%E5%99%A8%E7%9A%84%E6%80%9D%E7%BB%B4%E3%80%82%E2%80%9D;%E2%80%9C%E9%80%86%E5%90%91%E4%B8%8D%E6%98%AF%E7%A0%B4%E5%9D%8F%EF%BC%8C%E8%80%8C%E6%98%AF%E7%90%86%E8%A7%A3%E3%80%82%E2%80%9D" alt="逆向格言" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=Obfuscation+is+not+security%2C+but+it+buys+time.;Reverse+engineering+is+understanding%2C+not+destroying.;Read+the+binary%2C+reveal+the+logic." alt="Reverse Engineering Quotes" />
 </div>
 
-<!-- 页脚 -->
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   感谢访问我的 GitHub 主页!
@@ -192,5 +173,4 @@
   <i>Obfuscate the code, reveal the truth. ✨</i> 
 </p>
 
-<!-- 波浪页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:00D4FF,100:00FF41&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
