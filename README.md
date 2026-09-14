@@ -42,47 +42,55 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
 
-<h3 align="center">🔍 逆向工程</h3>
+<table border="0" cellspacing="0" cellpadding="8" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+### 🔍 逆向工程
 
-| 方向 | 内容 |
-|:---:|:---|
-| 二进制分析 | 逆向与反汇编分析 |
-| 代码还原 | 汇编 / 反编译代码还原 |
-| 漏洞研究 | 漏洞挖掘与利用分析 |
-| 恶意代码 | 恶意代码分析与溯源 |
-| 固件协议 | 固件 / 协议逆向 |
+🧩 二进制**逆向与反汇编**分析
 
-</div>
+🔧 **汇编 / 反编译**代码还原
 
-<h3 align="center">🌀 代码混淆</h3>
+🎯 **漏洞挖掘**与利用分析
 
-<div align="center">
+🛡️ **恶意代码**分析与溯源
 
-| 方向 | 内容 |
-|:---:|:---|
-| 控制流 | 控制流平坦化与花指令 |
-| 数据保护 | 字符串加密与虚拟化保护 |
-| 编译器 | LLVM Pass 混淆插件开发 |
-| 加固 | 代码加固与反调试 |
-| 还原 | 去混淆与自动化还原 |
+📡 **固件 / 协议**逆向
 
-</div>
+</td>
+<td width="33%" valign="top" align="center">
 
-<h3 align="center">🧪 安全研究</h3>
+### 🌀 代码混淆
 
-<div align="center">
+🔐 **控制流平坦化**与花指令
 
-| 方向 | 内容 |
-|:---:|:---|
-| 系统安全 | Windows / Linux 内核安全 |
-| 应用安全 | Web / 移动端安全测试 |
-| 智能逆向 | AI 辅助逆向与代码理解 |
-| 竞赛 | CTF 与漏洞复现 |
-| 工具 | 安全工具开发与自动化 |
+🧬 **字符串加密**与虚拟化保护
 
-</div>
+⚙️ **LLVM Pass** 混淆插件开发
+
+🛠️ 代码加固与**反调试**
+
+📉 **去混淆**与自动化还原
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧪 安全研究
+
+🐧 **Windows / Linux** 内核安全
+
+🌐 **Web / 移动端**安全测试
+
+🤖 **AI 辅助逆向**与代码理解
+
+🏴 **CTF** 与漏洞复现
+
+🧰 安全工具开发与自动化
+
+</td>
+</tr>
+</table>
 
 <h2 id="技能与工具" align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
