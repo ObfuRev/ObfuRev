@@ -12,7 +12,6 @@
   </p>
 </div>
 
-<!-- 分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" />
 
 <h2 id="关于我" align="center">
@@ -42,7 +41,6 @@
   </p>
 </div>
 
-<!-- 分隔符 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
@@ -106,7 +104,6 @@
   <img src="https://img.shields.io/badge/Capstone-00FF41?style=for-the-badge" alt="Capstone"/>
 </div>
 
-<!-- 分隔符 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
@@ -154,6 +151,16 @@
 </h2>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" 
+         src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" 
+         width="100%">
+  </picture>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ObfuRev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ObfuRev&theme=tokyonight" width="100%" />
