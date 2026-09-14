@@ -161,11 +161,15 @@
 </h2>
 
 <div align="center">
-  <!-- 贡献蛇形图（需要你自己仓库生成或换成支持你用户名的服务） -->
+  <!-- 贡献蛇形图（需先配置 snake.yml 并运行一次） -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" 
+         src="https://raw.githubusercontent.com/ObfuRev/ObfuRev/output/github-contribution-grid-snake.svg" 
+         width="100%">
   </picture>
 
   <!-- 贡献热图 -->
